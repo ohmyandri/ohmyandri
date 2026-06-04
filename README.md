@@ -32,8 +32,7 @@ synchronization, and content distribution between devices.
 
 ---
 
-#### 🧮 Numerical Analysis Algorithms — `[Completed]`
-Implementation of various numerical methods and visualization tools using Python.
+#### 🧮 [Numerical Analysis Algorithms](https://github.com/ohmyandri/Analisis-Numerico-Proyecto) — `[Completed]`Implementation of various numerical methods and visualization tools using Python.
 Includes mathematical simulations, graphical representation of the Lorenz Attractor,
 and algorithm development for computational analysis.
 
@@ -42,7 +41,7 @@ and algorithm development for computational analysis.
 
 ---
 
-#### 💻 Algorithm Visualizer — `[Completed]`
+#### 💻 [Algorithm Visualizer](https://github.com/ohmyandri/Algorithm-Visualization) — `[Completed]`
 Application designed to visually represent the execution of algorithms and data structures,
 displaying their behavior and complexity step by step.
 
